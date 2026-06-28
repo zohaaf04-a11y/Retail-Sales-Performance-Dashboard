@@ -1,4 +1,4 @@
-# SCT_DA_TASK1 - Sales Performance Dashboard
+#  Sales Performance Dashboard
 
 ## Objective
 Create a sales dashboard to analyze sales performance.
