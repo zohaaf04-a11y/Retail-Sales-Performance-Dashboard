@@ -1,4 +1,4 @@
-#  Sales Performance Dashboard
+# Retail Sales Performance Dashboard
 
 ## Objective
 Create a sales dashboard to analyze sales performance.
